@@ -1,9 +1,4 @@
-.publicidad1{
-    width: 100rem;
-    @extend %transicionLenta;
-}
-
-.caja__texto1{
+.caja__texto2{
     background-color: map-get($fondoTextos, bg );
     color: nth($colores,3);
     padding: 20px;
@@ -16,14 +11,7 @@
     }
 }
 
-.logos__RR{
-    width: 14rem;
-}
-
-.logo__RR__viejo{
-    @extend %transicionRapida;
-
-    &:hover{
-        @include desvaneceImangen (2, 0)
-    }
+.publicidad2{
+    width: 100rem;
+    @extend %transicionLenta;
 }
