@@ -14,3 +14,6 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 
 6- Completar la estructura de empresa.html, tambien acomodando el estilo y las medias querys.
 
+7- Completar la estructura de contacto.html, tambien acomodando el estilo y las medias querys.
+
+8- Completar la estructura de marcas.html, tambien acomodando el estilo y las medias querys.

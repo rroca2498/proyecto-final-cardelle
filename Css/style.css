@@ -101,4 +101,10 @@ header {
   width: 100rem;
 }
 
+@media screen and (max-width: 580px) {
+  .marcas {
+    width: 13rem !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
