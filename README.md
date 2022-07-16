@@ -17,3 +17,7 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 7- Completar la estructura de contacto.html, tambien acomodando el estilo y las medias querys.
 
 8- Completar la estructura de marcas.html, tambien acomodando el estilo y las medias querys.
+
+9- Correcion de una media query en la pagina marcas.html, y se editaron imagenes. 
+
+10- 
