@@ -20,4 +20,4 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 
 9- Correcion de una media query en la pagina marcas.html, y se editaron imagenes. 
 
-10- 
+10- Completa el footer en todas las paginas, haciendolo responsive.

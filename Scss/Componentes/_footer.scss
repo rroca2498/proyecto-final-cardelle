@@ -1,0 +1,33 @@
+.contactos__logos{
+    display: flex;
+    flex-direction: row;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactos{
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+}
+
+.logo__insta{
+    width: 2rem;
+}
+
+.logo__face{
+    width: 4rem;
+}
+
+footer{
+    background-color: nth($colores, 5 );
+    color: nth($colores, 2 );
+}
+
+@media screen and (max-width:581px){
+
+    .contactos{
+        font-size: 10px;
+    }
+}

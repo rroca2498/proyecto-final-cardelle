@@ -111,5 +111,37 @@ header {
     width: 9rem !important;
   }
 }
+.contactos__logos {
+  display: flex;
+  flex-direction: row;
+  font-size: 13px;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactos {
+  display: flex;
+  flex-direction: column;
+  font-size: 13px;
+}
+
+.logo__insta {
+  width: 2rem;
+}
+
+.logo__face {
+  width: 4rem;
+}
+
+footer {
+  background-color: rgb(82, 82, 82);
+  color: #40c5fd;
+}
+
+@media screen and (max-width: 581px) {
+  .contactos {
+    font-size: 10px;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
