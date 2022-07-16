@@ -143,5 +143,8 @@ footer {
     font-size: 10px;
   }
 }
+* {
+  font-family: "Source Code Pro", monospace;
+}
 
 /*# sourceMappingURL=style.css.map */
