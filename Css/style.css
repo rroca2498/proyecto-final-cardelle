@@ -34,6 +34,14 @@ header {
 .img__lineas {
   width: 30rem;
 }
+.choques {
+  display: none;
+}
+
+.ahora12 {
+  display: none;
+}
+
 .fondo__acero {
   background-image: url(../../Imagenes/fondo-acero.jpg);
   width: 100%;
@@ -43,17 +51,64 @@ header {
 
 .fondos {
   background-color: #40c5fd;
-  padding: 1px;
 }
 
+.fondos1 {
+  background-color: #40c5fd;
+}
+
+@media screen and (max-width: 1650px) {
+  .fondos h4 {
+    font-size: 18px;
+  }
+  .fondos p {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .fondos h4 {
+    font-size: 14px;
+  }
+  .fondos p {
+    font-size: 9px;
+  }
+}
 @media screen and (max-width: 1100px) {
   .img__lineas {
     width: 25rem;
+  }
+  .fondos h4 {
+    font-size: 12px;
+  }
+  .fondos p {
+    font-size: 9px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .fondos {
+    display: none;
+  }
+  .choques {
+    display: block;
+    display: flex;
+    width: 45rem;
+    flex-direction: row;
+  }
+  .presupuesto {
+    width: 10rem;
   }
 }
 @media screen and (max-width: 900px) {
   .img__lineas {
     width: 20rem;
+  }
+  .presupuesto {
+    width: 8rem;
+  }
+}
+@media screen and (max-width: 730px) {
+  .presupuesto {
+    width: 6rem;
   }
 }
 @media screen and (max-width: 630px) {
@@ -62,6 +117,15 @@ header {
   }
   .img__lineas {
     width: 15rem;
+  }
+  .choques {
+    display: none;
+  }
+  .ahora12 {
+    display: block;
+  }
+  .promo {
+    width: 18rem;
   }
 }
 @media screen and (max-width: 500px) {
