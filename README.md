@@ -25,3 +25,6 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 11- Se le aplico SEO a todo el sitio, incluyendo Keyboards y el open graph.
 
 12- Se le cambio la fuente a todo el sitio.
+
+13- Se agrego contedio al index de forma responsive, y se corrigio el error en la pagina empresa.
+
