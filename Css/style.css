@@ -46,7 +46,7 @@ header {
   background-image: url(../../Imagenes/fondo-acero.jpg);
   width: 100%;
   height: 16rem;
-  color: white;
+  color: black;
 }
 
 .fondos {
@@ -209,7 +209,7 @@ header {
   width: 4rem;
 }
 
-/*hacer que el body quede fijo*/
+/*hacer que el body quede ocupe toda la pantalla*/
 body {
   display: flex;
   flex-direction: column;
