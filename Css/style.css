@@ -136,6 +136,11 @@ header {
     width: 10rem;
   }
 }
+@media screen and (max-width: 350px) {
+  .promo {
+    width: 13rem;
+  }
+}
 .publicidad1 {
   width: 100rem;
 }
