@@ -20,9 +20,18 @@
     width: 4rem;
 }
 
+/*hacer que el body quede fijo*/
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 footer{
     background-color: nth($colores, 5 );
     color: nth($colores, 2 );
+    margin-top: auto;
 }
 
 @media screen and (max-width:581px){
