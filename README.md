@@ -27,3 +27,7 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 12- Se le cambio la fuente a todo el sitio.
 
 13- Se agrego contedio al index de forma responsive, y se corrigio el error en la pagina empresa.
+
+14- Se corrigio el problema con el el footer despegado en las paginas index y contacto en la vista movil y tablet.
+
+15- Se acomodo la etiqueta main en la pagina empresa.
