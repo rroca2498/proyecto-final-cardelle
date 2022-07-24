@@ -28,3 +28,7 @@ Hola Fer te arme el orden de las cosas que fui haciendo por los commits que haci
 
 13- Se agrego contedio al index de forma responsive, y se corrigio el error en la pagina empresa.
 
+14- Se corrigio el problema con el footer que no quedaba en el final en pantallas chicas.
+
+15- Se corrigio la etiqueta main en la pagina empresa.
+
